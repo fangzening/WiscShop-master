@@ -1,4 +1,5 @@
-an online shopping application used as a platform for UW students and alumni to buy school merchants (using javascrip and react). On top of that, write a shopping assistant chatbot (using Dialogflow tool on Google cloud platform) which could help the people with disabilities to search products and make the purchase, also have functionality on navigation, querying and filters
+WiscShop
+An online shopping application used as a platform for UW students and alumni to buy school merchants (using javascrip and react). On top of that, write a shopping assistant chatbot (using Dialogflow tool on Google cloud platform) which could help the people with disabilities to search products and make the purchase, also have functionality on navigation, querying and filters.
 
 
 # WiscShop API
